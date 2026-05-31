@@ -30,7 +30,7 @@ terraform output
 
 # Destruir
 terraform destroy
-## Multi-entorno
+# Multi-entorno
 # Desarrollo (defaults)
 terraform apply
 
